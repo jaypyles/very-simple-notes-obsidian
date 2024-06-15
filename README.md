@@ -8,15 +8,14 @@ Use the new ribbon icon to upload the current active note to the API for uploadi
 Fill out the note's optional group.
 
 -   Set endpoint url in settings
--   Click on ribbon
+-   Click on ribbon icon
 -   Set group and upload
 
 ## Deployment
 
 ```sh
 cd obsidian_vault/.obsidian/plugins
-git clone #snip
-
+git clone https://github.com/jaypyles/very-simple-notes-obsidian
 ```
 
 Enable the plugin under community plugins.
