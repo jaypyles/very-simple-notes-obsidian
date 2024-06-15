@@ -15,8 +15,7 @@ Fill out the note's optional group.
 
 ```sh
 cd obsidian_vault/.obsidian/plugins
-git clone #snip
-
+git clone https://github.com/jaypyles/very-simple-notes-obsidian
 ```
 
 Enable the plugin under community plugins.
